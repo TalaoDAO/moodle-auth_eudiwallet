@@ -1,0 +1,10 @@
+[
+  {
+    "name": "firebase/php-jwt",
+    "version": "v7.2.1",
+    "reference": "0501f5729b9e2448516674aff07c7d1727869b8e",
+    "license": [
+      "BSD-3-Clause"
+    ]
+  }
+]

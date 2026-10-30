@@ -1,0 +1,17 @@
+{
+  "name": "talao/moodle-auth-eudiwallet",
+  "description": "Moodle OIDC client for EUDI Wallet identity login",
+  "license": "GPL-3.0-or-later",
+  "require": {
+    "php": ">=8.1",
+    "ext-openssl": "*",
+    "ext-sodium": "*",
+    "firebase/php-jwt": "^7.0"
+  },
+  "config": {
+    "sort-packages": true,
+    "platform": {
+      "php": "8.1.0"
+    }
+  }
+}
